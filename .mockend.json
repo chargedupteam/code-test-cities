@@ -1,0 +1,14 @@
+{
+  "City": {
+    "#": "int",
+    "City": "string",
+    "Country": "string",
+    "All Buildings": "int",
+    "100m+": "int",
+    "150m": "int",
+    "200m+": "int",
+    "300m+": "int",
+    "Telecom Towers": "int",    
+    "All Structures": "int",    
+  }
+}
