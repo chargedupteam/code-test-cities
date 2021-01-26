@@ -9,6 +9,6 @@
     "200m+": "int",
     "300m+": "int",
     "Telecom Towers": "int",    
-    "All Structures": "int",    
+    "All Structures": "int"    
   }
 }
